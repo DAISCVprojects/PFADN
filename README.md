@@ -25,4 +25,4 @@ There are three weights files inside "models" folder, they are trained on differ
 
 ## NOTE
 
-Above mentioned weights were computed by training model on negative AoLP. If you are considering fine tuning PFADN model on your data, multiply ground truth AoLP with negative before feeding it to the network in order to maintain consistency. 
+Above mentioned weights were computed by training model on negative AoLP. If you are considering fine tuning PFADN model on your data, multiply your ground truth AoLP with minus before feeding it to the network in order to maintain consistency. 
