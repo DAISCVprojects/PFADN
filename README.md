@@ -2,7 +2,15 @@
 
 This repository contains implementation of "Deep Demosaicing for Polarimetric Filter Array Cameras". If you find this code useful for your research work, cite following:
 
-----bibtex will be updated soon-----
+@article{pistellato2022deep,
+  title={Deep demosaicing for polarimetric filter array cameras},
+  author={Pistellato, Mara and Bergamasco, Filippo and Fatima, Tehreem and Torsello, Andrea},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={2017--2026},
+  year={2022},
+  publisher={IEEE}
+}
 
 ## Requirements
 
